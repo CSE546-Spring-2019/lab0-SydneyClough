@@ -6,9 +6,9 @@ A simple hello world program that prints out my name.
 
 Includes a simple Makefile.
 
-## To compile:
+### To compile:
 `make`
 
-## To run:
+### To run:
 `./hello`
 
